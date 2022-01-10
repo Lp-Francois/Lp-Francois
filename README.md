@@ -10,10 +10,10 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 -->
 
-Welcome, I am a french DevOps Engineer working current in Hamburg ⚓, Germany. Fond of Automation & Observability.
+Welcome, I am a french DevOps Engineer working currently in Hamburg ⚓, Germany. Fond of Automation & Observability.
 
 - 🌱 I’m currently digging more into Functional & Reactive programming.
-- 🐋 Always learning about best practices & state-of-art tech (GitOps, K8s, ...)
+- 🐋 Always learning about best practices & state-of-art techs (GitOps, Kubernetes, ...)
 - 🚀 Getting more and more into the Open Source world
 
 <br/> 
