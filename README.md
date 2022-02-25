@@ -12,9 +12,9 @@
 
 Welcome, I am a french DevOps Engineer working currently in Hamburg ⚓, Germany. Fond of Automation & Observability.
 
-- 🌱 I’m currently digging more into Functional & Reactive programming.
+- 🌱 I’m currently using more and more Functional & Reactive programming.
 - 🐋 Always learning about best practices & state-of-art techs (GitOps, Kubernetes, ...)
-- 🚀 Getting more and more into the Open Source world
+- 🚀 Getting more and more into the Open Source world (Part of the Kubernetes v1.24 Release notes team)
 
 <br/> 
 
