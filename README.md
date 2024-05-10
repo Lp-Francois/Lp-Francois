@@ -1,20 +1,15 @@
 <h3 align=center>Hi, I'm François 👋</h3>
 
 <p align="center">
-  <a href="https://lepape.me/blog">Blog</a> 
+  <a href="https://lepape.me/blog">Blog</a> <b>·</b>
+  <a href="https://www.linkedin.com/in/francois-le-pape/">LinkedIn</a> 
 </p>
 
-<!-- Lets keep it simple
-[![Francois StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/9967831)](https://stackoverflow.com/users/9967831/hamiltonpharmd)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
--->
+Welcome, I am a french DevOps Engineer working currently in Paris. Fond of Automation & Observability.
 
-Welcome, I am a french DevOps Engineer working currently in Hamburg ⚓, Germany. Fond of Automation & Observability.
-
-- 🌱 I’m currently using more and more Functional & Reactive programming.
+- 🌱 Staying true to the "dev" of DevOps with Typescript and Golang
 - 🐋 Always learning about best practices & state-of-art techs (GitOps, Kubernetes, ...)
-- 🚀 Getting more and more into the Open Source world (Part of the Kubernetes v1.24 Release notes team)
+- 🗣️ Sharing knowledge through my blog & talks
 
 <br/> 
 
